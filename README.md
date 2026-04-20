@@ -31,3 +31,9 @@ This project analyzes cryptocurrency market data using technical indicators and 
 
 ## Notes
 Sensitive files such as database files, API keys, and environment variables are excluded from the repository.
+
+
+## 📸 Screenshots
+
+### 🔔 Trading Alerts (Telegram)
+![Telegram Alert](telegram-alert.png)
